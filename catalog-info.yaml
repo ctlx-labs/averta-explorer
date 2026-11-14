@@ -1,0 +1,13 @@
+# Software catalogue record (Backstage format, backstage.io/docs/features/software-catalog/descriptor-format).
+# GitHub topics mirror this file: website, system-averta, domain-project-development.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: averta-explorer
+  description: "Averta explorer: the public web view of the Averta model."
+  tags: [website]
+spec:
+  type: website
+  lifecycle: production
+  owner: group:project-development
+  system: averta
