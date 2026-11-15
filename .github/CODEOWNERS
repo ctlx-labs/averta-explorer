@@ -1,0 +1,7 @@
+# Owner of what leaves the firm and of house policy: Ali (decision 0017; ctlx-labs/firm governance/AUTHORITY.md).
+# A PR touching these paths needs his approval (ruleset 27291975, code-owner review). Code merges on green checks.
+/.github/CODEOWNERS @aliadoudou
+issued/ @aliadoudou
+SENDS.md @aliadoudou
+*.docx @aliadoudou
+*.pdf @aliadoudou
