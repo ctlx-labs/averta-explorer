@@ -1,0 +1,16 @@
+{
+  "connectors": [
+    "GitHub"
+  ],
+  "plugins": [
+    "i-have-adhd"
+  ],
+  "skills": [
+    "no-ai-slop",
+    "docx",
+    "pptx",
+    "xlsx",
+    "pdf",
+    "pdf-viewer"
+  ]
+}
